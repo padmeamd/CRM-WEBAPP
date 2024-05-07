@@ -1,0 +1,50 @@
+
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÃëÆØé1
+j
+java:S2095‰"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8¿ëÆØé1
+e
+java:S2095."HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÃëÆØé1
+j
+java:S2095•"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÄëÆØé1
+i
+java:S2095E"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÂëÆØé1
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÂëÆØé1
+e
+java:S2095\"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÆëÆØé1
+e
+java:S2095t"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÅëÆØé1
+j
+java:S2095«"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÃëÆØé1
+i
+java:S2095/"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÄëÆØé1
+f
+java:S2095”"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÁëÆØé1
+f
+java:S2095ˆ"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÆëÆØé1
+i
+java:S2095u"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÅëÆØé1
+e
+java:S2095P"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÂëÆØé1
+e
+java:S2095D"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÁëÆØé1
+i
+java:S2095Q"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÅëÆØé1
+i
+java:S2095]"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8ÁëÆØé1
+f
+java:S2095ª"HUse try-with-resources or close this "Connection" in a "finally" clause.(·ÍÛæ8ÅëÆØé1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(·Ñıÿÿÿÿ8ÍëÆØé1
+a
+java:S1155»">Use isEmpty() to check whether the collection is empty or not.(¦ÊËòşÿÿÿÿ8‹ìÆØé1
+hsecrets:S6703"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8®š–³ç1
+hsecrets:S6703."HMake sure this database password gets changed and removed from the code.(·ÍÛæ8®š–³ç1
+hsecrets:S6703D"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8¯š–³ç1
+hsecrets:S6703P"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8°š–³ç1
+hsecrets:S6703\"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8°š–³ç1
+hsecrets:S6703t"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8±š–³ç1
+isecrets:S6703ˆ"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8²š–³ç1
+isecrets:S6703”"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8³š–³ç1
+isecrets:S6703ª"HMake sure this database password gets changed and removed from the code.(·ÍÛæ8¸•±è1
